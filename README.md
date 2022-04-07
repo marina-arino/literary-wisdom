@@ -5,7 +5,7 @@ The goal of this project is to test basic Javascript knowledge. The program choo
 There is also a simple website that shows the message.
 
 ## Website
-This is how the website looks. The console also shows the random message. 
+This is how the website looks. The console also shows the random message. The button for something magical is a personal recommendation.
 
 ![literary-wisdom](https://user-images.githubusercontent.com/100833465/162025315-ef909aea-95e6-48a7-9232-cf87f387ebb3.png)
 

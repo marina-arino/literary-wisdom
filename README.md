@@ -12,6 +12,6 @@ This is how the website looks. The console also shows the random message.
 <img width="493" alt="literary-wisdom-2" src="https://user-images.githubusercontent.com/100833465/162026253-47bbae99-ed1e-4c66-b76b-68cabfa67170.png">
 
 ## Next updates
--Button that refreshes the page so the viewer can get another message.
--Different images displayed for each writer.
--More writers, moods and advices.
+<li>Button that refreshes the page so the viewer can get another message.</li>
+<li>Different images displayed for each writer.</li>
+<li>More writers, moods and advices.</li>
